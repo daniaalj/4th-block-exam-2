@@ -1,72 +1,75 @@
 h1 {
     background-color: blanchedalmond;
+    text-align: center;
+    font-size: 48px;
 }
 
 .f h1{
-    text-align: center;
-    font-size: 48px;
-    background-color: cornflowerblue;
-    color: cyan;
+        text-align: center;
+        font-size: 48px;
+        background-color: cornflowerblue;
+        color: cyan;
 }
-    img{
+.f  img{
         display: block;
         margin-right: auto;
         margin-left: auto;
         height: 200px;
         width: 250px;
-    }
+}
 
 .p h1{
-    text-align: center;
-    font-size: 48px;
-    background-color: crimson;
-    color: coral;
+        text-align: center;
+        font-size: 48px;
+        background-color: crimson;
+        color: coral;
 }
-    img{
-    display: block;
-    margin-right: auto;
-    margin-left: auto;
-    height: 300px;
-    width: 250px;
-    }
+.p  img{
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+        height: 300px;
+        width: 250px;
+}
 
 .l h1{
-    text-align: center;
-    font-size: 48px;
-    background-color: darkviolet;
-    color: thistle;
+        text-align: center;
+        font-size: 48px;
+        background-color: darkviolet;
+        color: thistle;
 }
-    img{
-    display: block;
-    margin-right: auto;
-    margin-left: auto;
-    height: 200px;
-    width: 250px;
-    }
+.l img{
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+        height: 200px;
+        width: 300px;
+}
 
 .r h1{  
-    text-align: center;
-    font-size: 48px;
-    background-color: pink;
-    color: fuchsia;
+        text-align: center;
+        font-size: 48px;
+        background-color: pink;
+        color: fuchsia;
 }
-    img{
-    display: block;
-    margin-right: auto;
-    margin-left: auto;
-    height: 200px;
-    width: 250px;
+.r img{
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+        height: 225px;
+        width: 325px;
 }
 
 .g h1{
-    text-align: center;
-    font-size: 48px;
-    background-color: darkolivegreen;
-    color: lightgreen;
-}
-    img{display: block;
-    margin-right: auto;
-    margin-left: auto;
-    height: 200px;
-    width: 350px;
+        text-align: center;
+        font-size: 48px;
+        background-color: darkolivegreen;
+        color: lightgreen;
+}  
+.g img{
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+        height: 200px;
+        width: 350px;
 }
