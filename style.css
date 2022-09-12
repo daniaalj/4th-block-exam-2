@@ -1,3 +1,72 @@
 h1 {
     background-color: blanchedalmond;
 }
+
+.f h1{
+    text-align: center;
+    font-size: 48px;
+    background-color: cornflowerblue;
+    color: cyan;
+}
+    img{
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+        height: 200px;
+        width: 250px;
+    }
+
+.p h1{
+    text-align: center;
+    font-size: 48px;
+    background-color: crimson;
+    color: coral;
+}
+    img{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    height: 300px;
+    width: 250px;
+    }
+
+.l h1{
+    text-align: center;
+    font-size: 48px;
+    background-color: darkviolet;
+    color: thistle;
+}
+    img{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    height: 200px;
+    width: 250px;
+    }
+
+.r h1{  
+    text-align: center;
+    font-size: 48px;
+    background-color: pink;
+    color: fuchsia;
+}
+    img{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    height: 200px;
+    width: 250px;
+}
+
+.g h1{
+    text-align: center;
+    font-size: 48px;
+    background-color: darkolivegreen;
+    color: lightgreen;
+}
+    img{display: block;
+    margin-right: auto;
+    margin-left: auto;
+    height: 200px;
+    width: 350px;
+}
